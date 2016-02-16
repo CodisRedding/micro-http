@@ -1,0 +1,32 @@
+{
+  "name": "micro-http",
+  "version": "0.0.1",
+  "description": "Micro HTTP Server Adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RTComm/micro-http.git"
+  },
+  "keywords": [
+    "micro",
+    "service",
+    "microservice",
+    "adapter",
+    "adaptor",
+    "server",
+    "http",
+    "proxy",
+    "protocol",
+    "transform",
+    "stream"
+  ],
+  "author": "Tanase Laurentiu <expertphp@gmail.com> (http://xpertmailer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RTComm/micro-http/issues"
+  },
+  "homepage": "https://github.com/RTComm/micro-http#readme"
+}
